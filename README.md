@@ -11,8 +11,6 @@ Minarno, A. E., Munarko, Y., Kurniawardhani, A., & Bimantoro, F. (2016, January)
 
 Minarno, A. E. et al. (2018). Comparison of Classification Method for Batik Classification Using Multi Texton Histogram. TELKOMNIKA (Telecommunication Computing Electronics and Control), 16.
 
-Kurniawardhani, A., Minarno, A. E., & Bimantoro, F. (2016, October). Efficient texture image retrieval of improved completed robust local binary pattern. In Advanced Computer Science and Information Systems (ICACSIS), 2016 International Conference on (pp. 492-497). IEEE.
-
 # Publication
 
 [1] Minarno, A. E., Munarko, Y., Kurniawardhani, A., Bimantoro, F., & Suciati, N. (2014, May). Texture feature extraction using co-occurrence matrices of sub-band image for batik image classification. In Information and Communication Technology (ICoICT), 2014 2nd International Conference on (pp. 249-254). IEEE.
