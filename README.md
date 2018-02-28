@@ -1,12 +1,12 @@
 # Batik
 Batik Dataset, Image Retrieval, Image Classification, Pattern Recognition
 
-# Dataset
+## Dataset
 Batik image dataset is collected by capturing 50 types of Batik cloth. Each cloth is captured to as much as six random images and then resized to 128x128 pixels size in JPEG format. Thus, the total number of images in a dataset is 300 and consists of 50 classes. In general, there are two patterns of captured batik images, geometric and non-geometric patterns. Dataset provided by Laboratorium Komputasi Cerdas dan Visi, Institut Teknologi Sepuluh Nopember http://kcv.if.its.ac.id 
 
 ![Example Batik Dataset](image/dataset.png)
 
-# Please refer to:
+## Please refer to:
 [1] Minarno, A. E., Munarko, Y., Kurniawardhani, A., & Bimantoro, F. (2016, January). Classification of Texture Using Multi Texton Histogram and Probabilistic Neural Network. In IOP Conference Series: Materials Science and Engineering (Vol. 105, No. 1, p. 012022). IOP Publishing.
 
 [2] Minarno, A. E. et al. (2018). Comparison of Classification Method for Batik Classification Using Multi Texton Histogram. TELKOMNIKA (Telecommunication Computing Electronics and Control), 16.
