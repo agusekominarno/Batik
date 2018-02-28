@@ -7,7 +7,7 @@ Batik image dataset is collected by capturing 50 types of Batik cloth. Each clot
 ![Example Batik Dataset](image/dataset.png)
 
 # Please refer to:
-[link] (Minarno, A. E., Munarko, Y., Kurniawardhani, A., & Bimantoro, F. (2016, January). Classification of Texture Using Multi Texton Histogram and Probabilistic Neural Network. In IOP Conference Series: Materials Science and Engineering (Vol. 105, No. 1, p. 012022). IOP Publishing.)
+[https://scholar.google.co.id/scholar?hl=id&as_sdt=0%2C5&q=Minarno%2C+A.+E.%2C+Munarko%2C+Y.%2C+Kurniawardhani%2C+A.%2C+%26+Bimantoro%2C+F.+%282016%2C+January%29.+Classification+of+Texture+Using+Multi+Texton+Histogram+and+Probabilistic+Neural+Network.+In+IOP+Conference+Series%3A+Materials+Science+and+Engineering+%28Vol.+105%2C+No.+1%2C+p.+012022%29.+IOP+Publishing.&btnG=] (Minarno, A. E., Munarko, Y., Kurniawardhani, A., & Bimantoro, F. (2016, January). Classification of Texture Using Multi Texton Histogram and Probabilistic Neural Network. In IOP Conference Series: Materials Science and Engineering (Vol. 105, No. 1, p. 012022). IOP Publishing.)
 
 Minarno, A. E. et al. (2018). Comparison of Classification Method for Batik Classification Using Multi Texton Histogram. TELKOMNIKA (Telecommunication Computing Electronics and Control), 16.
 
