@@ -2,7 +2,7 @@
 On 2 October 2009, UNESCO announced that batik is one of the intangible cultural heritages of humanity. Batik can be defined as a traditional method to write some patterns and dots on fabric and other material. Batik patterns consist of one or more motifs which are repeatedly written in an orderly sequence or a disorderly sequence. [1](https://scholar.google.co.id/scholar?hl=id&as_sdt=0%2C5&q=Batik+image+retrieval+based+on+color+difference+histogram+and+gray+level+co-occurrence+matrix&btnG=)
 
 ## Dataset
-Batik image dataset is collected by capturing 50 types of Batik cloth. Each cloth is captured to as much as six random images and then resized to 128x128 pixels size in JPEG format. Thus, the total number of images in a dataset is 300 and consists of 50 classes. In general, there are two patterns of captured batik images, geometric and non-geometric patterns. Dataset provided by Laboratorium Komputasi Cerdas dan Visi, Institut Teknologi Sepuluh Nopember http://kcv.if.its.ac.id 
+Batik image dataset is collected by capturing 50 types of Batik cloth ![Batik Dataset](Dataset/Batik300.zip). Each cloth is captured to as much as six random images and then resized to 128x128 pixels size in JPEG format. Total number of images in a dataset is 300 and consists of 50 classes. In general, there are two patterns of captured batik images, geometric and non-geometric patterns. Dataset provided by Laboratorium Komputasi Cerdas dan Visi, Institut Teknologi Sepuluh Nopember http://kcv.if.its.ac.id 
 
 ![Example Batik Dataset](image/dataset.png)
 
